@@ -1,0 +1,345 @@
+{
+  "name": "",
+  "type": 1,
+  "points": [
+    {
+      "x": 2127.5107421875,
+      "y": -1629.09375,
+      "z": 389.73281860352,
+      "int": 56,
+      "dim": 1973,
+      "minigame": {
+        "game": "keys",
+        "steps": 5,
+        "speed": 750,
+        "fail": "Ale ne! Máš špatné dokumenty. ",
+        "done": "Vyzvedl sis technické výkresy a dokumentace."
+      },
+      "me": [
+        "vyzvedl výkresovou dokumentaci na výrobu dřevěného nábytkového kování.",
+        "vyzvedla výkresovou dokumentaci na výrobu dřevěného nábytkového kování."
+      ],
+      "help": "Teď dojeď do dílny, která je hned za rohem."
+    },
+    {
+      "x": 2401.119140625,
+      "y": 1481.6142578125,
+      "z": 10.8203125,
+      "int": 0,
+      "dim": 0,
+      "help": "Tak tady je dílna! Teď se přesuň dovnitř a ze skladu vyber vhodné dřevo pro výrobu."
+    },
+    {
+      "x": 523.8056640625,
+      "y": 87.302734375,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "snake",
+        "steps": 1,
+        "fail": "To je jiná dřevina! Podívej se na technickou dokumentaci a vem to správné.",
+        "done": "Skvělé! Máš správnou dřevinu."
+      },
+      "me": [
+        "se přehrabuje v hráni a vybírá vhodné dřevo pro výrobu dle výkresové dokumentace.",
+        "se přehrabuje v hráni a vybírá vhodné dřevo pro výrobu dle výkresové dokumentace."
+      ],
+      "help": "Přemísti se k formátovací pile a řízni materiál na hrubé přířezy. Ale opatrně!"
+    },
+    {
+      "x": 534.6416015625,
+      "y": 87.5498046875,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "snake",
+        "steps": 3,
+        "fail": "Je to zbytečně dlouhé! Přilož materiál k pravítku a lízni to o pár centimetrů.",
+        "done": "Nařezal si materiál na hrubé přířezy aniž by sis uřízl prsty. Paráda!"
+      },
+      "me": [
+        "nařezal materiál na hrubé přířezy",
+        "nařezala materiál na hrubé přířezy"
+      ],
+      "help": "Tak teď je potřeba přířezy srovnat. Přesuň se ke srovnávací frézce."
+    },
+    {
+      "x": 527.6591796875,
+      "y": 83.2509765625,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "keys",
+        "steps": 6,
+        "speed": 720,
+        "fail": "Ještě jednou protáhni materiál, ať je to čisté.",
+        "done": "Materiál máš srovnaný."
+      },
+      "me": [
+        "srovnal plochu a boční plochu, poté materiál protáhl na požadovanou tloušťku a šířku.",
+        "srovnala plochu a boční plochu, poté materiál protáhla na požadovanou tloušťku a šířku."
+      ],
+      "help": "Teď materiál odnes do CNC, nahraj soubor a nech ho pracovat."
+    },
+    {
+      "x": 534.1904296875,
+      "y": 83.912109375,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "snake",
+        "steps": 2,
+        "fail": "Nemáš spuštěný program, zapni ho.",
+        "done": "CNC vyfrézovala madla a úchytky"
+      },
+      "me": [
+        "upěvnil materiál do CNC a spustil program. Stroj nechává pracovat.",
+        "upěvnila materiál do CNC a spustil program. Stroj nechává pracovat."
+      ],
+      "help": "CNC vyfrézovalo madla a úchytky. Teď je třeba zakulatit ostré hrany na horní frézce."
+    },
+    {
+      "x": 538.9814453125,
+      "y": 90.3408203125,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "snake",
+        "steps": 2,
+        "fail": "Trochu ti to odskočilo. Drž to pořádně a projeď to ještě jednou.",
+        "done": "Paráda! Hrany máš ofrézované."
+      },
+      "me": [
+        "opatrně dílce ofrézoval kolem dokola aby hrany byly krásně zakulacené",
+        "opatrně dílce ofrézovala kolem dokola aby hrany byly krásně zakulacené"
+      ],
+      "help": "Teď dílce musíš obrousit na hranové brusce."
+    },
+    {
+      "x": 531.732421875,
+      "y": 85.5234375,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "keys",
+        "steps": 4,
+        "speed": 720,
+        "fail": "Ale dělej to pořádně! Obruš to ještě jednou a bude to dobrý. ",
+        "done": "Všechny plochy dílců jsou čisté a hladké."
+      },
+      "me": [
+        "přiložil dílce k brusnému pásu a obrousil všechny plochy aby byly čisté a hladké.",
+        "přiložila dílce k brusnému pásu a obrousila všechny plochy aby byly čisté a hladké."
+      ],
+      "help": "Dílce odnes do lakovny. Hlavně nezapomeň na ochranné brýle a masku."
+    },
+    {
+      "x": 543.9375,
+      "y": 89.3955078125,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "keys",
+        "steps": 5,
+        "speed": 720,
+        "fail": "Na povrchu není dostatečně silná vrstva, neboj se nanést silnější.",
+        "done": "Lak byl n povrch dílců úspěšně nanesen. Teď to tu nechej klimatizovat"
+      },
+      "me": [
+        "si nasadil ochranné pomůcky a stříkací pistolí nanesl na povrch dílců vrstvu laku.",
+        "si nasadila ochranné pomůcky a stříkací pistolí nanesla na povrch dílců vrstvu laku."
+      ],
+      "help": "Přenes dílce z předešlé zakázky na montážní pracoviště pro kompletaci dřevěného a kovového kování."
+    },
+    {
+      "x": 540.5791015625,
+      "y": 84.734375,
+      "z": 1044.474609375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "boxes",
+        "steps": 3,
+        "point": {
+          "x": 522.8125,
+          "y": 81.4951171875,
+          "z": 1044.458984375,
+          "int": 24,
+          "dim": 1548
+        },
+        "fail": "Stále to není všechno! Vrať se pro zbytek.",
+        "done": "Dílce byly doneseny na montážní pracoviště."
+      },
+      "me": [
+        "přenesl lakované dílce na montážní pracoviště.",
+        "přenesla lakované dílce na montážní pracoviště."
+      ],
+      "help": "Tak teď musíš zkompletovat dřevěné kování s kovovými prvky."
+    },
+    {
+      "x": 517.904296875,
+      "y": 82.4716796875,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "snake",
+        "steps": 2,
+        "fail": "Ještě ti zbývá pár dílců! Zkompletuj to všechno.",
+        "done": "Kompletace dřevěného kování s kovovými prvky proběhla úspešně."
+      },
+      "help": "Hotové výrobky zabal do krabic."
+    },
+    {
+      "x": 525.9248046875,
+      "y": 72.3994140625,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "keys",
+        "steps": 5,
+        "speed": 720,
+        "fail": "Zapomněl si na výplň! Dodej jí do krabic.",
+        "done": "Hotové výrobky byly zabavené a jsou připravené k rozvozu."
+      },
+      "me": [
+        "složil připravené krabice, do krabic naskládal výplň, kování zabalil do obalů a vložil ho do krabic.",
+        "složila připravené krabice, do krabic naskládala výplň, kování zabalila do obalů a vložil ho do krabic"
+      ],
+      "help": "Naskládej krabice do vozidla."
+    },
+    {
+      "x": 523.40234375,
+      "y": 76.341796875,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "minigame": {
+        "game": "boxes",
+        "steps": 4,
+        "point": {
+          "x": 521.470703125,
+          "y": 69.4755859375,
+          "z": 1044.458984375,
+          "int": 24,
+          "dim": 1548
+        },
+        "fail": "Ještě jedna krabice se ti tam válí!",
+        "done": "Krabice byly naskládané do kufru."
+      },
+      "me": [
+        "přenesl a naskládal krabice do kufru vozidla.",
+        "přenesla a naskládala krabice do kufru vozidla."
+      ],
+      "help": "Dej si kafíčko! :)"
+    },
+    {
+      "x": 526.6162109375,
+      "y": 61.58203125,
+      "z": 1044.458984375,
+      "int": 24,
+      "dim": 1548,
+      "me": [
+        "se podíval na kávovar, protože má chuť na kávu.",
+        "se podívala na kávovar, protože má chuť na kávu."
+      ],
+      "help": "Je čas rozvézt zásilku. Jako první se vydej do doků v LS."
+    },
+    {
+      "x": 2775.373046875,
+      "y": -2415.7255859375,
+      "z": 13.636694908142,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "boxes",
+        "steps": 4,
+        "point": {
+          "x": 2796.0390625,
+          "y": -2415.12109375,
+          "z": 13.631649017334,
+          "int": 0,
+          "dim": 0
+        },
+        "fail": "ještě jedna krabice!",
+        "done": "Odnesl si všechny krabice pro export ze San Andreas."
+      },
+      "me": [
+        "přenesl krabice z kufru vozidla do skladu přepravce.",
+        "přenesla krabice z kufru vozidla do skladu přepravce."
+      ],
+      "help": "Tak teď můžeš jet na firmu, ale nezapomeň zajet pro materiál k vlakovému nádraží."
+    },
+    {
+      "x": 2854.212890625,
+      "y": 1241.509765625,
+      "z": 10.935315132141,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "boxes",
+        "steps": 4,
+        "point": {
+          "x": 2844.875,
+          "y": 1240.44921875,
+          "z": 10.813802719116,
+          "int": 0,
+          "dim": 0
+        },
+        "fail": "Ještě to není všechno!",
+        "done": "Materiál byl naskládán do kufru."
+      },
+      "me": [
+        "převzal krabice od dodavatele a odnesl je do kufru vozidla.",
+        "převzala krabice od dodavatele a odnesla je do kufru vozidla."
+      ],
+      "help": "Už jen materiál zavez do dílny."
+    },
+    {
+      "x": 2385.2890625,
+      "y": 1479.32421875,
+      "z": 10.812517166138,
+      "int": 0,
+      "dim": 0,
+      "minigame": {
+        "game": "boxes",
+        "steps": 4,
+        "point": {
+          "x": 2393.2470703125,
+          "y": 1482.25,
+          "z": 10.8203125,
+          "int": 0,
+          "dim": 0
+        },
+        "fail": "Ještě to není všechno!",
+        "done": "Skvělé! Materiál byl zanesen na sklad."
+      },
+      "me": [
+        "přenesl materiál z kufru vozidla do skladu dílny.",
+        "přenesla materiál z kufru vozidla do skladu dílny."
+      ],
+      "help": "Paráda, práce je hotová! Teď už jen vyzvednout zaslouženou odměnu."
+    },
+    {
+      "x": 2565.34765625,
+      "y": 1415.4541015625,
+      "z": 11.037425994873,
+      "int": 0,
+      "dim": 0,
+      "me": [
+        "si vyzvedl odměnu za provedenou práci v hotovosti.",
+        "si vyzvedla odměnu za provedenou práci v hotovosti."
+      ],
+      "help": "Získáváš [REWARD] jako odměnu! Jen tak dál ;-)"
+    }
+  ],
+  "reward": 0
+}
