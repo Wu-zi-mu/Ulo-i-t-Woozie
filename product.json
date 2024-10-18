@@ -37,7 +37,7 @@
       "dim": 1548,
       "minigame": {
         "game": "snake",
-        "steps": 1,
+        "steps": 3,
         "fail": "To je jiná dřevina! Podívej se na technickou dokumentaci a vem to správné.",
         "done": "Skvělé! Máš správnou dřevinu."
       },
@@ -55,7 +55,7 @@
       "dim": 1548,
       "minigame": {
         "game": "snake",
-        "steps": 3,
+        "steps": 4,
         "fail": "Je to zbytečně dlouhé! Přilož materiál k pravítku a lízni to o pár centimetrů.",
         "done": "Nařezal si materiál na hrubé přířezy aniž by sis uřízl prsty. Paráda!"
       },
@@ -92,7 +92,7 @@
       "dim": 1548,
       "minigame": {
         "game": "snake",
-        "steps": 2,
+        "steps": 4,
         "fail": "Nemáš spuštěný program, zapni ho.",
         "done": "CNC vyfrézovala madla a úchytky"
       },
@@ -110,7 +110,7 @@
       "dim": 1548,
       "minigame": {
         "game": "snake",
-        "steps": 2,
+        "steps": 4,
         "fail": "Trochu ti to odskočilo. Drž to pořádně a projeď to ještě jednou.",
         "done": "Paráda! Hrany máš ofrézované."
       },
@@ -128,8 +128,8 @@
       "dim": 1548,
       "minigame": {
         "game": "keys",
-        "steps": 4,
-        "speed": 720,
+        "steps": 6,
+        "speed": 730,
         "fail": "Ale dělej to pořádně! Obruš to ještě jednou a bude to dobrý. ",
         "done": "Všechny plochy dílců jsou čisté a hladké."
       },
@@ -147,14 +147,14 @@
       "dim": 1548,
       "minigame": {
         "game": "keys",
-        "steps": 5,
-        "speed": 720,
+        "steps": 8,
+        "speed": 750,
         "fail": "Na povrchu není dostatečně silná vrstva, neboj se nanést silnější.",
         "done": "Lak byl n povrch dílců úspěšně nanesen. Teď to tu nechej klimatizovat"
       },
       "me": [
-        "si nasadil ochranné pomůcky a stříkací pistolí nanesl na povrch dílců vrstvu laku.",
-        "si nasadila ochranné pomůcky a stříkací pistolí nanesla na povrch dílců vrstvu laku."
+        "si nasadil ochranné brýle s maskou a stříkací pistolí nanesl na povrch dílců vrstvu laku.",
+        "si nasadila ochranné brýle s maskou a stříkací pistolí nanesla na povrch dílců vrstvu laku."
       ],
       "help": "Přenes dílce z předešlé zakázky na montážní pracoviště pro kompletaci dřevěného a kovového kování."
     },
@@ -166,7 +166,7 @@
       "dim": 1548,
       "minigame": {
         "game": "boxes",
-        "steps": 3,
+        "steps": 5,
         "point": {
           "x": 522.8125,
           "y": 81.4951171875,
@@ -191,7 +191,7 @@
       "dim": 1548,
       "minigame": {
         "game": "snake",
-        "steps": 2,
+        "steps": 4,
         "fail": "Ještě ti zbývá pár dílců! Zkompletuj to všechno.",
         "done": "Kompletace dřevěného kování s kovovými prvky proběhla úspešně."
       },
@@ -205,8 +205,8 @@
       "dim": 1548,
       "minigame": {
         "game": "keys",
-        "steps": 5,
-        "speed": 720,
+        "steps": 8,
+        "speed": 750,
         "fail": "Zapomněl si na výplň! Dodej jí do krabic.",
         "done": "Hotové výrobky byly zabavené a jsou připravené k rozvozu."
       },
@@ -224,7 +224,7 @@
       "dim": 1548,
       "minigame": {
         "game": "boxes",
-        "steps": 4,
+        "steps": 5,
         "point": {
           "x": 521.470703125,
           "y": 69.4755859375,
@@ -251,7 +251,7 @@
         "se podíval na kávovar, protože má chuť na kávu.",
         "se podívala na kávovar, protože má chuť na kávu."
       ],
-      "help": "Je čas rozvézt zásilku. Jako první se vydej do doků v LS."
+      "help": "Je čas rozvézt odvézt zakázku. Vydej se do doků Los Santos a vylož tam všechny krabice."
     },
     {
       "x": 2775.373046875,
@@ -261,7 +261,7 @@
       "dim": 0,
       "minigame": {
         "game": "boxes",
-        "steps": 4,
+        "steps": 5,
         "point": {
           "x": 2796.0390625,
           "y": -2415.12109375,
@@ -269,8 +269,8 @@
           "int": 0,
           "dim": 0
         },
-        "fail": "ještě jedna krabice!",
-        "done": "Odnesl si všechny krabice pro export ze San Andreas."
+        "fail": "Ještě jedna krabice!",
+        "done": "Zabalená zakazka byla předána přepravci."
       },
       "me": [
         "přenesl krabice z kufru vozidla do skladu přepravce.",
@@ -286,7 +286,7 @@
       "dim": 0,
       "minigame": {
         "game": "boxes",
-        "steps": 4,
+        "steps": 8,
         "point": {
           "x": 2844.875,
           "y": 1240.44921875,
@@ -311,7 +311,7 @@
       "dim": 0,
       "minigame": {
         "game": "boxes",
-        "steps": 4,
+        "steps": 8,
         "point": {
           "x": 2393.2470703125,
           "y": 1482.25,
